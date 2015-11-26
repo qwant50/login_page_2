@@ -1,0 +1,16 @@
+[07-Oct-2015 07:53:31 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/datar8/public_html/DBmanagement/ShowData.php on line 40
+[10-Oct-2015 08:17:46 UTC] PHP Notice:  Undefined property: mysqli::$close in /home/datar8/public_html/DBmanagement/DBcreate.php on line 73
+[10-Oct-2015 08:20:51 UTC] PHP Notice:  Undefined property: mysqli::$close in /home/datar8/public_html/DBmanagement/DBcreate.php on line 73
+[10-Oct-2015 08:28:40 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/datar8/public_html/DBmanagement/ShowData.php on line 40
+[10-Oct-2015 08:45:58 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/datar8/public_html/DBmanagement/ShowData.php on line 40
+[10-Oct-2015 08:47:07 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/datar8/public_html/DBmanagement/ShowData.php on line 40
+[10-Oct-2015 08:47:11 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/datar8/public_html/DBmanagement/ShowData.php on line 40
+[10-Oct-2015 08:47:14 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/datar8/public_html/DBmanagement/ShowData.php on line 40
+[10-Oct-2015 08:47:19 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/datar8/public_html/DBmanagement/ShowData.php on line 40
+[10-Oct-2015 08:47:53 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/datar8/public_html/DBmanagement/ShowData.php on line 40
+[10-Oct-2015 08:59:35 UTC] PHP Fatal error:  Call to a member function close() on a non-object in /home/datar8/public_html/DBmanagement/ShowData.php on line 40
+[19-Oct-2015 12:45:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/datar8/public_html/DBmanagement/config.php:25) in /home/datar8/public_html/DBmanagement/DBcreate.php on line 82
+[25-Nov-2015 12:29:05 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/DBmanagement/ShowData.php on line 45
+[25-Nov-2015 12:29:05 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/DBmanagement/ShowData.php on line 45
+[25-Nov-2015 12:29:05 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/DBmanagement/ShowData.php on line 50
+[25-Nov-2015 12:29:05 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/DBmanagement/ShowData.php on line 13

@@ -1,0 +1,65 @@
+[05-Oct-2015 09:47:10 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 42
+[05-Oct-2015 09:47:10 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 42
+[05-Oct-2015 09:48:43 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 42
+[05-Oct-2015 09:48:43 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 42
+[05-Oct-2015 09:52:25 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 43
+[05-Oct-2015 09:52:25 UTC] PHP Notice:  Array to string conversion in /home/datar8/public_html/myview/cities.php on line 36
+[05-Oct-2015 09:52:25 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 43
+[05-Oct-2015 09:52:25 UTC] PHP Notice:  Array to string conversion in /home/datar8/public_html/myview/cities.php on line 36
+[05-Oct-2015 09:53:00 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 43
+[05-Oct-2015 09:53:00 UTC] PHP Notice:  Array to string conversion in /home/datar8/public_html/myview/cities.php on line 36
+[05-Oct-2015 09:53:00 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 43
+[05-Oct-2015 09:53:00 UTC] PHP Notice:  Array to string conversion in /home/datar8/public_html/myview/cities.php on line 36
+[05-Oct-2015 09:53:40 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 43
+[05-Oct-2015 09:53:40 UTC] PHP Notice:  Array to string conversion in /home/datar8/public_html/myview/cities.php on line 36
+[05-Oct-2015 09:53:40 UTC] PHP Notice:  Undefined variable: ansewr in /home/datar8/public_html/myview/cities.php on line 43
+[05-Oct-2015 09:53:40 UTC] PHP Notice:  Array to string conversion in /home/datar8/public_html/myview/cities.php on line 36
+[05-Oct-2015 09:54:09 UTC] PHP Notice:  Array to string conversion in /home/datar8/public_html/myview/cities.php on line 36
+[05-Oct-2015 09:54:09 UTC] PHP Notice:  Array to string conversion in /home/datar8/public_html/myview/cities.php on line 36
+[07-Oct-2015 06:39:01 UTC] PHP Notice:  Array to string conversion in /home/datar8/public_html/myview/cities.php on line 68
+[07-Oct-2015 07:50:56 UTC] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/myview/cities.php on line 9
+[07-Oct-2015 07:50:56 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/myview/cities.php on line 9
+[25-Nov-2015 12:27:57 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:27:57 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:27:57 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:27:57 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:29:03 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:29:03 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:29:03 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:29:03 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:31:11 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:31:11 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:31:11 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:31:11 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:51:13 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:51:13 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:51:13 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:51:13 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:51:14 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:51:14 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:51:14 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:51:14 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:51:21 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:51:21 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:51:21 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:51:21 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:52:13 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:52:13 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:52:13 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:52:13 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:52:20 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:52:20 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:52:20 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:52:20 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:56:31 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:56:31 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:56:31 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:56:31 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:56:49 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:56:49 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:56:49 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:56:49 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
+[25-Nov-2015 12:57:28 EET] PHP Warning:  include(/home/datar8/public_html/DBmanagement/config.php): failed to open stream: No such file or directory in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:57:28 EET] PHP Warning:  include(): Failed opening '/home/datar8/public_html/DBmanagement/config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/datar8/public_html/datarec/myview/cities.php on line 3
+[25-Nov-2015 12:57:28 EET] PHP Notice:  Undefined variable: mysqli in /home/datar8/public_html/datarec/myview/cities.php on line 47
+[25-Nov-2015 12:57:28 EET] PHP Fatal error:  Call to a member function query() on a non-object in /home/datar8/public_html/datarec/myview/cities.php on line 9
