@@ -1,5 +1,6 @@
 <?php
 error_reporting(E_ALL);
+define('__ROOT__', realpath(__DIR__));
 ?>
 <!DOCTYPE html>
 <html ng-app="myApp">
@@ -189,14 +190,13 @@ error_reporting(E_ALL);
     <div id="controller">
         <?php
         if (isset($_GET['create'])) {
-            include_once $_SERVER['DOCUMENT_ROOT'] . '/datarec/DBmanagement/DBcreate.php';
+            require_once __ROOT__.'/DBmanagement/DBcreate.php';
         }
         if (isset($_GET['view'])) {
-            include_once $_SERVER['DOCUMENT_ROOT'] . '/datarec/DBmanagement/ShowData.php';
+            require_once __ROOT__.'/DBmanagement/ShowData.php';
         }
         ?>
     </div>
-
 
 
     {{getFullName()}}
