@@ -6,7 +6,7 @@
  * Time: 23:15
  */
 
-include_once $_SERVER['DOCUMENT_ROOT'] . '/datarec/DBmanagement/config.php';
+require_once __ROOT__.'/DBmanagement/config.php';
 
 function ShowData($mysqli, $data)
 {
@@ -47,5 +47,3 @@ echo '<div class="row"><div class="col-xs-12"><div id="MainBody"><br>';
 if (in_array($data, $table_names)) ShowData($mysqli, $data);
 echo '</div></div></div>';
 if ($mysqli) $mysqli->close();
-
-?>

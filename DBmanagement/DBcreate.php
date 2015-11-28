@@ -1,5 +1,5 @@
 <?php
-include_once $_SERVER['DOCUMENT_ROOT'].'/datarec/DBmanagement/config.php';
+require_once __ROOT__.'/DBmanagement/config.php';
 
 
 // delete all tables;
@@ -79,5 +79,3 @@ $res = $mysqli->query($sql);
 
 if ($mysqli) $mysqli->close();
 
-
-?>
